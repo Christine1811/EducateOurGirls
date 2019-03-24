@@ -7,7 +7,7 @@ import time
 from bs4 import BeautifulSoup
 
 # Set the URL you want to webscrape from
-url = 'http://web.mta.info/developers/turnstile.html'
+url = 'http://www.programmr.com/api'
 
 # Connect to the URL
 response = requests.get(url)
